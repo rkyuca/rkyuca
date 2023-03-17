@@ -1,12 +1,9 @@
 ---
 layout: default
+title: <h1>Rezaul Karim</h1>
+description: PhD Student, Department of EECS, York University, Toronto, Canada.<br> My research is in the general area of Computer Vision with a special focus on Video Understanding.<br><div class="btn"><a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=sgKzrSgAAAAJ&sortby=pubdate">Google Scholar</a></div>&nbsp;&nbsp;<div class="btn"><a href="https://www.linkedin.com/in/rezaulkarimyu/">LinkedIn</a></btn>
 ---
 
-## About Me
-   
-I am currently a PhD Student in the Department of EECS at the [York University](https://www.yorku.ca). 
-
-My research is focused on Deep Learning and its applications in **Computer Vision**.
 
 
 ## News   

@@ -52,14 +52,6 @@ body {
   }
 }
 
-a {
-  color: $body-link-color;
-  text-decoration: none;
-
-  &:hover {
-    text-decoration: underline;
-  }
-}
 
 .btn {
   display: inline-block;
@@ -350,13 +342,14 @@ a {
   }
 }
 
+
 a:link {
   color: green;
   background-color: transparent;
   text-decoration: none;
 }
 a:visited {
-  color: hsla(180, 9%, 90%, 0.952);
+  color: #e7e5ec;
   background-color: transparent;
   text-decoration: none;
 }
@@ -366,7 +359,7 @@ a:hover {
   text-decoration: underline;
 }
 a:active {
-  color: hsl(253, 100%, 50%);
+  color: hsla(253, 100%, 50%, 0.911);
   background-color: transparent;
   text-decoration: underline;
 }

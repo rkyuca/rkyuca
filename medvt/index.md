@@ -1,7 +1,7 @@
 ---
 layout: default
 title: <h2>MED-VT Multiscale Encoder Decoder Video Transformer.</h2>
-description: <a href="https://rkyuca.github.io">Rezaul Karim</a>, <a href="https://joehezhao.github.io/">He Zhao</a>, <a href="https://lassonde.yorku.ca/users/wildes"> Richard P. Wildes</a>, <a href="https://msiam.github.io/homepage/">Mennatullah Siam</a><br><a href="">Paper</a>&nbsp;<a href="">Supplement</a>&nbsp;<a href="https://github.com/rkyuca/medvt">Code</a>
+description: <a href="https://rkyuca.github.io">Rezaul Karim</a>, <a href="https://joehezhao.github.io/">He Zhao</a>, <a href="https://lassonde.yorku.ca/users/wildes"> Richard P. Wildes</a>, <a href="https://msiam.github.io/homepage/">Mennatullah Siam</a><br><br><div class="btn"><a href="">Paper</a></div>&nbsp;<div class="btn"><a href="">Supplement</a></div>&nbsp;<div class="btn"><a href="https://github.com/rkyuca/medvt">Code</a></div>
 show_downloads: true
 ---
 
@@ -37,11 +37,12 @@ Multiscale video transformers have been explored in a wide variety of vision tas
         </td>
         <td style="border: none;"> 
             <video width="320" height="240" controls>
-                <source src="./data/medvt_a2d.mp4" type="video/mp4">
+                <source src="./data/medvt_a2d_cnvt.mp4" type="video/mp4">
                 Your browser does not support the video tag.
             </video>  <br> A2D 
         </td>
     </tr>
+    <!--
     <tr style="border: none;"> 
         <td style="border: none;"> 
         <iframe width="320" height="240"
@@ -55,7 +56,7 @@ Multiscale video transformers have been explored in a wide variety of vision tas
         </iframe>
         <br> A2D 
         </td>
-    </tr>
+    </tr> -->
 </table>
 
 
