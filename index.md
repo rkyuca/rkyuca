@@ -4,6 +4,7 @@ title: <h1>Rezaul Karim</h1>
 description: PhD Student, Department of EECS, York University, Toronto, Canada.<br> My research is in the general area of Computer Vision with a special focus on Video Understanding.<br><div class="btn"><a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=sgKzrSgAAAAJ&sortby=pubdate">Google Scholar</a></div>&nbsp;&nbsp;<div class="btn"><a href="https://www.linkedin.com/in/rezaulkarimyu/">LinkedIn</a></btn>
 ---
 
+# This page is under construction, please see [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=sgKzrSgAAAAJ&sortby=pubdate)  or [LinkedIn](https://www.linkedin.com/in/rezaulkarimyu/) for updated information. 
 
 
 ## News   
@@ -17,7 +18,7 @@ description: PhD Student, Department of EECS, York University, Toronto, Canada.<
 *  **MED-VT: Multiscale Encoder-Decoder Video Transformer with Application to Object Segmentation**  
 **Rezaul Karim** , He Zhao, Richard P. Wildes, Mennatullah Siam  
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023.  
-[Project Page](./medvt/index.html) [Paper](#) [supplement](.) [code](.)
+[Project Page](./medvt/index.html) [Paper](./) [supplement](.) [code](.)
 
 * **Distributed iterative gating networks for semantic segmentation**
 **Rezaul Karim**, Amirul Islam, NDB Bruce   
@@ -33,7 +34,7 @@ IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**), 2019.
 
 * **Lossless Image Compression Using List Update Algorithms**   
 Arezoo Abdollahi, Neil Bruce, Shahin Kamali, and **Rezaul Karim**
-String Processing and Information Retrieval: 26th International Symposium </em> (**SPIRE**), 2019.  
+String Processing and Information Retrieval: 26th International Symposium (**SPIRE**), 2019.  
 [Paper](https://link.springer.com/chapter/10.1007/978-3-030-32686-9_2) [Code](https://github.com/rkyuca/lossless_image_compression)
 
 * **CoMOGrad and PHOG: from computer vision to fast and accurate protein tertiary structure retrieval**   
