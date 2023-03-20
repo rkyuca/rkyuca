@@ -41,13 +41,13 @@ Detailed (MED-VT) architecture with unified multiscale encoder-decoder transform
 <table style="border-collapse: collapse; border: none;">
     <tr style="border: none;"> 
         <td style="border: none;text-align: center"> 
-            <video width="380" height="300" controls>
+            <video width="380" height="300" controls loop>
                 <source src="./data/davis-dance-twirl.mp4" type="video/mp4">
                 Your browser does not support the video tag.
             </video> <br> Davis (Dance-Twirl) 
         </td>
         <td style="border: none;text-align: center"> 
-            <video width="380" height="300" controls>
+            <video width="380" height="300" controls loop>
                 <source src="./data/breakdance_10.mp4" type="video/mp4">
                 Your browser does not support the video tag.
             </video>  <br> Davis (Breakdance)
@@ -55,13 +55,13 @@ Detailed (MED-VT) architecture with unified multiscale encoder-decoder transform
     </tr>
     <tr style="border: none;"> 
         <td style="border: none;text-align: center"> 
-            <video width="380" height="300" controls>
+            <video width="380" height="300" controls loop>
                 <source src="./data/moca-flounder_6.mp4" type="video/mp4">
                 Your browser does not support the video tag.
             </video> <br> MoCA (Flounder)  
         </td>
         <td style="border: none;text-align: center"> 
-            <video width="380" height="300" controls>
+            <video width="380" height="300" controls loop>
                 <source src="./data/hedgehog_1_10.mp4" type="video/mp4">
                 Your browser does not support the video tag.
             </video>  <br> MoCA (Hedgehog) 
