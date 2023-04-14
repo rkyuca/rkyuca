@@ -1,7 +1,7 @@
 ---
 layout: default
 title: <h2>MED-VT Multiscale Encoder Decoder Video Transformer (CVPR'23).</h2>
-description: <a href="https://rkyuca.github.io"><div class="author">Rezaul Karim,</div></a>&nbsp;<a href="https://joehezhao.github.io/"><div class="author">He Zhao,</div></a>&nbsp;<a href="https://lassonde.yorku.ca/users/wildes"><div class="author">Richard P. Wildes,</div></a>&nbsp;<a href="https://msiam.github.io/homepage/"><div class="author"><div class="author">Mennatullah Siam</div></a></div><br><a href=""><div class="hbtn">Paper</div></a>&nbsp;<a href=""><div class="hbtn">Supplement</div></a>&nbsp;<a href="https://github.com/rkyuca/medvt"><div class="hbtn">Code</div></a>
+description: <a href="https://rkyuca.github.io"><div class="author">Rezaul Karim,</div></a>&nbsp;<a href="https://joehezhao.github.io/"><div class="author">He Zhao,</div></a>&nbsp;<a href="https://lassonde.yorku.ca/users/wildes"><div class="author">Richard P. Wildes,</div></a>&nbsp;<a href="https://msiam.github.io/homepage/"><div class="author"><div class="author">Mennatullah Siam</div></a></div><br><a href="https://arxiv.org/abs/2304.05930"><div class="hbtn">Paper</div></a>&nbsp;<a href="https://arxiv.org/abs/2304.05930"><div class="hbtn">Supplement</div></a>&nbsp;<a href="https://github.com/rkyuca/medvt"><div class="hbtn">Code</div></a>
 show_downloads: true
 ---
 
