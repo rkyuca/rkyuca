@@ -85,10 +85,11 @@ Detailed (MED-VT) architecture with unified multiscale encoder-decoder transform
 
 
 ```tex
-@inproceedings{medvt23,
-  title={ {MED-VT}: Multiscale Encoder-Decoder Video Transformer with Application to Object Segmentation},
-  author={Rezaul Karim and He Zhao and Richard P. Wildes and Mennatullah Siam},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition },
+@inproceedings{karim2023med,
+  title={MED-VT: Multiscale Encoder-Decoder Video Transformer with Application to Object Segmentation},
+  author={Karim, Rezaul and Zhao, He and Wildes, Richard P and Siam, Mennatullah},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={6323--6333},
   year={2023}
 }
 ```
