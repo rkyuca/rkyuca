@@ -14,8 +14,6 @@ My research is in the general area of Computer Vision with a special focus on Vi
 
 
 ## Selected Publications   
-### See [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=sgKzrSgAAAAJ&sortby=pubdate)  for full publication list.
-
 
 *  **MED-VT: Multiscale Encoder-Decoder Video Transformer with Application to Object Segmentation**  
 **Rezaul Karim** , He Zhao, Richard P. Wildes, Mennatullah Siam  
