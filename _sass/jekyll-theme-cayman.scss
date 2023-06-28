@@ -428,3 +428,8 @@ a:active {
 .site-footer-credits {
   color: $blockquote-text-color;
 }
+
+
+.svg-social-icon { width: 24px; height: 24px; margin: 5px; opacity: 0.8; border: 2px solid white; border-radius: 50%; border-color: rgba(255, 255, 255, 0.5); transition: background-color .05s, transform .05s ease-in-out; }
+
+.svg-social-icon:hover { opacity: 1; transform: scale(1.2); border-color: white; transition: background-color .05s, transform .05s ease-in-out; }
