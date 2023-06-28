@@ -1,10 +1,18 @@
 ---
 layout: default
 title: <h1>Rezaul Karim</h1>
-description: PhD Student, Department of EECS, York University, Toronto, Canada.<br> My research is in the general area of Computer Vision with a special focus on Video Understanding.<br><div class="btn"><a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=sgKzrSgAAAAJ&sortby=pubdate">Google Scholar</a></div>&nbsp;&nbsp;<div class="btn"><a href="https://www.linkedin.com/in/rezaulkarimyu/">LinkedIn</a></btn>
+description: PhD Student, Department of EECS, York University, Toronto, Canada. <br> My research is in the general area of Computer Vision with a special focus on Video Understanding. 
 ---
+<a title="Resume" href="/my/includes/resume.pdf"><img class="svg-social-icon" src="/my/includes/resume_icon.png"></a>
+<a title="Google Scholar" href="https://scholar.google.com/citations?hl=en&user=sgKzrSgAAAAJ&view_op=list_works&sortby=pubdate"><img class="svg-social-icon" src="/my/includes/avatar_scholar_128.png"></a>
+<a title="LinkedIn" href="https://www.linkedin.com/in/rezaulkarimyu/"><img class="svg-social-icon" src="/my/includes/linkedin_icon_square.png"></a>
 
-# This page is under construction, please see [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=sgKzrSgAAAAJ&sortby=pubdate)  or [LinkedIn](https://www.linkedin.com/in/rezaulkarimyu/) for updated information. 
+<!--
+<div class="btn"><a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=sgKzrSgAAAAJ&sortby=pubdate">Google Scholar</a></div>
+<div class="btn"><a href="https://www.linkedin.com/in/rezaulkarimyu/">LinkedIn</a></btn>
+# This page is under construction, please see [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=sgKzrSgAAAAJ&sortby=pubdate)  or [LinkedIn](https://www.linkedin.com/in/rezaulkarimyu/) for updated information.
+-->
+
 
 
 ## News   
@@ -12,7 +20,7 @@ description: PhD Student, Department of EECS, York University, Toronto, Canada.<
 
 
 ## Selected Publications   
-### See [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=sgKzrSgAAAAJ&sortby=pubdate)  for full publication list
+### See [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=sgKzrSgAAAAJ&sortby=pubdate)  for full publication list.
 
 
 *  **MED-VT: Multiscale Encoder-Decoder Video Transformer with Application to Object Segmentation**  
@@ -42,7 +50,54 @@ String Processing and Information Retrieval: 26th International Symposium (**SPI
 Scientific Reports (**Scientific Reports**), 2015.  
 [Paper](https://www.nature.com/articles/srep13275)
 
-### See [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=sgKzrSgAAAAJ&sortby=pubdate)  for full publication list
+### See [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=sgKzrSgAAAAJ&sortby=pubdate)  for full publication list.
 
 
+## Experience 
+
+*  **Autonomous Driving Team, Noah’s Ark Laboratory, Huawei Canada Corp.**  
+Associate Researcher, Intern   
+    * Conducted research in perception/prediction related problems in autonomous driving
+
+
+* **Vision Lab, York University**  
+Graduate Research Assistant with Professor Richard P. Wildes
+  * Spatial temporal attention models for video understanding
+  * Understanding the role of attention in transformer-based models
+  * Unsupervised video object segmentation from unconstrained videos
+  * Interpretability of temporal dynamics in video understanding 
+  
+
+* **Department of EECS, York University**
+Teaching Assistant
+  * Design and Analysis of Algorithms
+  * Introduction to the Theory of Computation
+  * Operating Systems
+  
+
+* **Computer Vision Lab University of Manitoba**   
+Graduate Research Assistant with Professor Neil Bruce
+  * Feedback and Gating in Deep Neural Networks
+  * Adversarial attack and defence in ConvNet models
+  * Semantic segmentation, scene parsing, panoptic segmentation
+
+
+## Education
+
+* York University  
+Ph.D. in Electrical Engineering and Computer Science
+  * Thesis: Spatial Temporal Attention Models for Video Understanding
+  * Supervisor: Professor Richard P. Wildes
+  
+
+*  University of Manitoba   
+M.Sc. in Computer Science
+    * Thesis: Feedback and Gating in Deep Neural Networks
+    * Supervisor: Dr. Neil D. B. Bruce
+
+***
+
+<a title="Resume" href="/my/includes/resume.pdf"><img class="svg-social-icon" src="/my/includes/resume_icon.png"></a>
+<a title="Google Scholar" href="https://scholar.google.com/citations?hl=en&user=sgKzrSgAAAAJ&view_op=list_works&sortby=pubdate"><img class="svg-social-icon" src="/my/includes/avatar_scholar_128.png"></a>
+<a title="LinkedIn" href="https://www.linkedin.com/in/rezaulkarimyu/"><img class="svg-social-icon" src="/my/includes/linkedin_icon_square.png"></a>
 
