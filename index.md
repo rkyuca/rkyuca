@@ -20,7 +20,7 @@ My research is in the general area of Computer Vision with a special focus on Vi
 *  **MED-VT: Multiscale Encoder-Decoder Video Transformer with Application to Object Segmentation**  
 **Rezaul Karim** , He Zhao, Richard P. Wildes, Mennatullah Siam  
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023.  
-[Project Page](./medvt/index.html) [Paper](./) [supplement](.) [code](.)
+[Project Page](./medvt/index.html) [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Karim_MED-VT_Multiscale_Encoder-Decoder_Video_Transformer_With_Application_To_Object_Segmentation_CVPR_2023_paper.pdf) [supplement](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Karim_MED-VT_Multiscale_Encoder-Decoder_CVPR_2023_supplemental.pdf)  [code](https://github.com/rkyuca/medvt)
 
 * **Distributed iterative gating networks for semantic segmentation**
 **Rezaul Karim**, Amirul Islam, NDB Bruce   
