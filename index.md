@@ -1,22 +1,16 @@
 ---
 layout: default
 title: <h1>Rezaul Karim</h1>
-description: PhD Student, Department of EECS, York University, Toronto, Canada. <br> My research is in the general area of Computer Vision with a special focus on Video Understanding. 
+description: PhD Student, Department of EECS, York University, Toronto, Canada. <br> <a title="Resume" href="/my/includes/resume.pdf"><img class="svg-social-icon" src="/my/includes/resume_blue.jpg"></a> <a title="Google Scholar" href="https://scholar.google.com/citations?hl=en&user=sgKzrSgAAAAJ&view_op=list_works&sortby=pubdate"><img class="svg-social-icon" src="/my/includes/avatar_scholar_128.png"></a> <a title="Github" href="https://github.com/rkyuca"><img class="svg-social-icon" src="/my/includes/github_icon_black.png"></a> <a title="LinkedIn" href="https://www.linkedin.com/in/rezaulkarimyu/"><img class="svg-social-icon" src="/my/includes/linkedin_icon_square.png"></a> <a title="Email" href="mailto:karimr31@yorku.ca"><img class="svg-social-icon" src="/my/includes/email_icon_blue.png"></a>
 ---
-<a title="Resume" href="/my/includes/resume.pdf"><img class="svg-social-icon" src="/my/includes/resume_icon.png"></a>
-<a title="Google Scholar" href="https://scholar.google.com/citations?hl=en&user=sgKzrSgAAAAJ&view_op=list_works&sortby=pubdate"><img class="svg-social-icon" src="/my/includes/avatar_scholar_128.png"></a>
-<a title="LinkedIn" href="https://www.linkedin.com/in/rezaulkarimyu/"><img class="svg-social-icon" src="/my/includes/linkedin_icon_square.png"></a>
-
-<!--
-<div class="btn"><a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=sgKzrSgAAAAJ&sortby=pubdate">Google Scholar</a></div>
-<div class="btn"><a href="https://www.linkedin.com/in/rezaulkarimyu/">LinkedIn</a></btn>
-# This page is under construction, please see [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=sgKzrSgAAAAJ&sortby=pubdate)  or [LinkedIn](https://www.linkedin.com/in/rezaulkarimyu/) for updated information.
--->
 
 
 
 ## News   
 * **02/2023**: One paper accepted to [CVPR 2023](https://cvpr2023.thecvf.com)
+
+## Research Area
+My research is in the general area of Computer Vision with a special focus on Video Understanding. 
 
 
 ## Selected Publications   
@@ -96,8 +90,10 @@ M.Sc. in Computer Science
     * Supervisor: Dr. Neil D. B. Bruce
 
 ***
-
-<a title="Resume" href="/my/includes/resume.pdf"><img class="svg-social-icon" src="/my/includes/resume_icon.png"></a>
+<a title="Resume" href="/my/includes/resume.pdf"><img class="svg-social-icon" src="/my/includes/resume_blue.jpg"></a>
 <a title="Google Scholar" href="https://scholar.google.com/citations?hl=en&user=sgKzrSgAAAAJ&view_op=list_works&sortby=pubdate"><img class="svg-social-icon" src="/my/includes/avatar_scholar_128.png"></a>
-<a title="LinkedIn" href="https://www.linkedin.com/in/rezaulkarimyu/"><img class="svg-social-icon" src="/my/includes/linkedin_icon_square.png"></a>
+<a title="Github" href="https://github.com/rkyuca"><img class="svg-social-icon" src="/my/includes/github_icon_black.png"></a>
+<a title="LinkedIn" href="https://www.linkedin.com/in/rezaulkarimyu/"><img class="svg-social-icon" src="./my/includes/linkedin_icon_square.png"></a>
+<a title="Email" href="mailto:karimr31@yorku.ca"><img class="svg-social-icon" src="./my/includes/email_icon_blue.png"></a>
+***
 
