@@ -1,7 +1,7 @@
 ---
 layout: default
-title: <h1>Rezaul Karim</h1>
-description: PhD Student, Department of EECS, York University, Toronto, Canada. <br> <a title="Resume" href="/my/includes/resume.pdf"><img class="svg-social-icon" src="/my/includes/resume_blue.jpg"></a> <a title="Google Scholar" href="https://scholar.google.com/citations?hl=en&user=sgKzrSgAAAAJ&view_op=list_works&sortby=pubdate"><img class="svg-social-icon" src="/my/includes/avatar_scholar_128.png"></a> <a title="Github" href="https://github.com/rkyuca"><img class="svg-social-icon" src="/my/includes/github_icon_black.png"></a> <a title="LinkedIn" href="https://www.linkedin.com/in/rezaulkarimyu/"><img class="svg-social-icon" src="/my/includes/linkedin_icon_square.png"></a> <a title="Email" href="mailto:karimr31@yorku.ca"><img class="svg-social-icon" src="/my/includes/email_icon_blue.png"></a>
+title: Rezaul Karim
+description: PhD Student, Department of EECS, York University, Toronto, Canada. <br> <a title="Resume" href="/my/includes/resume.pdf"><img class="svg-social-icon" src="/my/includes/resume_icon.png"></a> <a title="Google Scholar" href="https://scholar.google.com/citations?hl=en&user=sgKzrSgAAAAJ&view_op=list_works&sortby=pubdate"><img class="svg-social-icon" src="/my/includes/avatar_scholar_128.png"></a> <a title="Github" href="https://github.com/rkyuca"><img class="svg-social-icon" src="/my/includes/github_icon_black.png"></a> <a title="LinkedIn" href="https://www.linkedin.com/in/rezaulkarimyu/"><img class="svg-social-icon" src="/my/includes/linkedin_icon_square.png"></a> <a title="Email" href="mailto:karimr31@yorku.ca"><img class="svg-social-icon" src="/my/includes/email_icon_blue.png"></a>
 ---
 
 
@@ -90,10 +90,9 @@ M.Sc. in Computer Science
     * Supervisor: Dr. Neil D. B. Bruce
 
 ***
-<a title="Resume" href="/my/includes/resume.pdf"><img class="svg-social-icon" src="/my/includes/resume_blue.jpg"></a>
-<a title="Google Scholar" href="https://scholar.google.com/citations?hl=en&user=sgKzrSgAAAAJ&view_op=list_works&sortby=pubdate"><img class="svg-social-icon" src="/my/includes/avatar_scholar_128.png"></a>
-<a title="Github" href="https://github.com/rkyuca"><img class="svg-social-icon" src="/my/includes/github_icon_black.png"></a>
+<a title="Resume" href="/my/includes/resume.pdf"><img class="svg-social-icon" src="./my/includes/resume_icon.png"></a>
+<a title="Google Scholar" href="https://scholar.google.com/citations?hl=en&user=sgKzrSgAAAAJ&view_op=list_works&sortby=pubdate"><img class="svg-social-icon" src="./my/includes/avatar_scholar_128.png"></a>
+<a title="Github" href="https://github.com/rkyuca"><img class="svg-social-icon" src="./my/includes/github_icon_black.png"></a>
 <a title="LinkedIn" href="https://www.linkedin.com/in/rezaulkarimyu/"><img class="svg-social-icon" src="./my/includes/linkedin_icon_square.png"></a>
 <a title="Email" href="mailto:karimr31@yorku.ca"><img class="svg-social-icon" src="./my/includes/email_icon_blue.png"></a>
-***
 
