@@ -11,7 +11,7 @@ description: PhD Student, Department of EECS, York University, Toronto, Canada. 
 
 ## Research Area
 <p style="text-align: justify">
-My research is in the general area of **Computer Vision** with a special focus on **Video Understanding**. My  demonstrated research experience includes using multiscale spatiotemporal attention mechanism for video segmentation, distributed feedback for scene segmentation, vehicle trajectory prediction from birds-eye-view videos for autonomous driving.
+My research is in the general area of <b>Computer Vision</b> with a special focus on <b>Video Understanding</b>. My  demonstrated research experience includes using multiscale spatiotemporal attention mechanism for video segmentation, distributed feedback for scene segmentation, vehicle trajectory prediction from birds-eye-view videos for autonomous driving.
 </p>
 
 <!--
