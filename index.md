@@ -7,13 +7,22 @@ description: PhD Student, Department of EECS, York University, Toronto, Canada. 
 
 
 ## News   
-* **02/2023**: One paper accepted to [CVPR 2023](https://cvpr2023.thecvf.com)
+* **02/2023**: Our work on Multiscale Encoder-Decoder Video Transformer accepted to [CVPR 2023](https://cvpr2023.thecvf.com)
 
 ## Research Area
-My research is in the general area of Computer Vision with a special focus on Video Understanding. 
+My research is in the general area of **Computer Vision** with a special focus on **Video Understanding**. My  demonstrated research experience includes using multiscale spatiotemporal attention mechanism for video segmentation, distributed feedback for scene segmentation, vehicle trajectory prediction from birds-eye-view videos for autonomous driving.
 
+<!--
+## Highlights
+* 7 years of research and development experience on various industry and academic projects
+* Hands-on experience in implementing novel models for research experiments focused in a wide varieties of computer vision problems with a strong peer-reviewed publication track record
+* Deep understanding of the theories behind machine learning, deep learning, CNN, transformers, spatiotemporal oriented energy networks, and computer vision algorithms
+* Good understanding of latest academic computer vision papers, and the state-of-the-art algorithms for a wide variety of problems in image and video understanding tasks
+* Demonstrated experience in implementing computer vision algorithms for the task of classification, object detection, semantic segmentation, video object segmentation, action recognition, and adversarial attack/defense
+on CNN using standard libraries (OpenCV, NumPy, SciPy, scikit-learn) and popular deep learning frameworks (PyTorch, TensorFlow, and Keras)
+-->
 
-## Selected Publications   
+## Selected Publications ( See [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=sgKzrSgAAAAJ&sortby=pubdate)  for full list.)  
 
 *  **MED-VT: Multiscale Encoder-Decoder Video Transformer with Application to Object Segmentation**  
 **Rezaul Karim** , He Zhao, Richard P. Wildes, Mennatullah Siam  
@@ -49,7 +58,7 @@ Scientific Reports (**Scientific Reports**), 2015.
 
 *  **Autonomous Driving Team, Noah’s Ark Laboratory, Huawei Canada Corp.**  
 Associate Researcher, Intern   
-    * Conducted research in perception/prediction related problems in autonomous driving
+    * Conducted research in perception/prediction related problems in autonomous driving <br>
 
 
 * **Vision Lab, York University**  
@@ -57,33 +66,30 @@ Graduate Research Assistant with Professor Richard P. Wildes
   * Spatial temporal attention models for video understanding
   * Understanding the role of attention in transformer-based models
   * Unsupervised video object segmentation from unconstrained videos
-  * Interpretability of temporal dynamics in video understanding 
-  
+  * Interpretability of temporal dynamics in video understanding <br>  
 
 * **Department of EECS, York University**
 Teaching Assistant
   * Design and Analysis of Algorithms
   * Introduction to the Theory of Computation
   * Operating Systems
-  
+<br>  
 
 * **Computer Vision Lab University of Manitoba**   
 Graduate Research Assistant with Professor Neil Bruce
   * Feedback and Gating in Deep Neural Networks
   * Adversarial attack and defence in ConvNet models
   * Semantic segmentation, scene parsing, panoptic segmentation
-
+<br>
 
 ## Education
 
-* York University  
-Ph.D. in Electrical Engineering and Computer Science
+* Ph.D. in Electrical Engineering and Computer Science, [York University](https://lassonde.yorku.ca/eecs/)
   * Thesis: Spatial Temporal Attention Models for Video Understanding
-  * Supervisor: Professor Richard P. Wildes
+  * Supervisor: [Professor Richard P. Wildes](https://lassonde.yorku.ca/users/wildes) <br>
   
 
-*  University of Manitoba   
-M.Sc. in Computer Science
+*  M.Sc. in Computer Science, University of Manitoba
     * Thesis: Feedback and Gating in Deep Neural Networks
     * Supervisor: Dr. Neil D. B. Bruce
 
